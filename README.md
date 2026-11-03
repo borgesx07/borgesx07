@@ -25,3 +25,7 @@ Comecei pelo que dá para ver funcionando: páginas em HTML, CSS e JavaScript. H
 
 - [**Sistema de Reserva de Carros**](https://github.com/borgesx07/sistema-reserva-carros-mysql): banco de dados MySQL de uma locadora, feito na disciplina de Modelagem de Banco de Dados neste semestre.
 - [**Estudos de Algoritmos em C**](https://github.com/borgesx07/estudos-algoritmos-c): meus exercícios de lógica e linguagem C.
+
+## 🤝 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-borges-206a17430)
